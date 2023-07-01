@@ -1,1 +1,1 @@
-# curd
+# GUI PROJECT
